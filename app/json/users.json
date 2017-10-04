@@ -1,0 +1,12 @@
+{"users":[
+    {"id":"00001", "name":"Antonio", "surname":"Álvarez","address": {"city":"Madrid", "street":"Gran Vía"}, "age":"35"},
+    {"id":"00002", "name":"María", "surname":"Aragón","address": {"city":"Albacete", "street":"Calle Real"}, "age":"65"},
+    {"id":"00003", "name":"Javier", "surname":"Sánchez","address": {"city":"Cádiz", "street":"Calle Ancha"}, "age":"19"},
+    {"id":"00004", "name":"Manuel", "surname":"González","address": {"city":"Barcelona", "street":"Gran Vía"}, "age":"33"},
+    {"id":"00005", "name":"Gerardo", "surname":"López","address": {"city":"Ciudad Real", "street":"Plaza España"}, "age":"47"},
+    {"id":"00006", "name":"Ana María", "surname":"Sevilla","address": {"city":"Madrid", "street":"Plaza España"}, "age":"24"},
+    {"id":"00007", "name":"Irene", "surname":"Flores","address": {"city":"Cádiz", "street":"Calle de Columela"}, "age":"29"},
+    {"id":"00008", "name":"José Luis", "surname":"Vázquez","address": {"city":"Cádiz", "street":"Calle del Jilguero"}, "age":"52"},
+    {"id":"00009", "name":"Elena", "surname":"Fernández","address": {"city":"Barcelona", "street":"Avenida Mayor"}, "age":"26"},
+    {"id":"00010", "name":"Antonio", "surname":"Verdugo","address": {"city":"Guadalajara", "street":"Plaza del Ayuntamiento"}, "age":"70"}
+]}

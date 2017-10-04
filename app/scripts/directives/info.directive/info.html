@@ -1,0 +1,12 @@
+<div class="header">
+  <h1>{{info.name | uppercase}} {{info.surname | uppercase}}</h1>
+  <a href="/"> VOLVER</a>
+</div>
+<div class="detail">
+  <div class="detail-info">
+    <p><span>ID:</span> {{info.id}}</p>
+    <p><span>DIRECCIÓN:</span> {{info.address.street}}, {{info.address.city}}</p>
+    <p><span>EDAD:</span> {{info.age}}</p>
+    <p><span>DESCRIPCIÓN:</span> {{info.description}}</p>
+  </div>
+</div>
